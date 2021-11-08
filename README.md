@@ -4,6 +4,7 @@
 
 Codecademy - Credit card checker
 The project has 3 functions, viz:
+
 a) validateCred(): The purpose of validateCred() is to return true when an array contains
 digits of a valid credit card number and false when it is invalid. The values of the
 original array are not mutated.
